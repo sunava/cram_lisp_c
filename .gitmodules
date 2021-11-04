@@ -1,0 +1,3 @@
+[submodule "cram/genslisp"]
+	path = cram/genslisp
+	url = git@github.com:ros/genlisp.git
